@@ -19,6 +19,7 @@
 		C6393A58223FB24E00BEEA1C /* CalanqueCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6393A57223FB24E00BEEA1C /* CalanqueCell.swift */; };
 		C6393A5A223FB7D200BEEA1C /* ImageRonde.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6393A59223FB7D200BEEA1C /* ImageRonde.swift */; };
 		C6393A5C223FC00C00BEEA1C /* CalanqueCellAlternative.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6393A5B223FC00C00BEEA1C /* CalanqueCellAlternative.swift */; };
+		C6393A5E223FCE5500BEEA1C /* DétailControlleur.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6393A5D223FCE5500BEEA1C /* DétailControlleur.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		C6393A57223FB24E00BEEA1C /* CalanqueCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCell.swift; sourceTree = "<group>"; };
 		C6393A59223FB7D200BEEA1C /* ImageRonde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRonde.swift; sourceTree = "<group>"; };
 		C6393A5B223FC00C00BEEA1C /* CalanqueCellAlternative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCellAlternative.swift; sourceTree = "<group>"; };
+		C6393A5D223FCE5500BEEA1C /* DétailControlleur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DétailControlleur.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				C6393A51223FAADD00BEEA1C /* CoontrollerAvecTableView.swift */,
 				C6393A53223FAAF700BEEA1C /* ControllerAvecCarte.swift */,
 				C6393A55223FAB3300BEEA1C /* TableViewIntegrerController.swift */,
+				C6393A5D223FCE5500BEEA1C /* DétailControlleur.swift */,
 			);
 			path = Controlleur;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				C6393A54223FAAF700BEEA1C /* ControllerAvecCarte.swift in Sources */,
 				C6393A56223FAB3300BEEA1C /* TableViewIntegrerController.swift in Sources */,
 				C6393A5C223FC00C00BEEA1C /* CalanqueCellAlternative.swift in Sources */,
+				C6393A5E223FCE5500BEEA1C /* DétailControlleur.swift in Sources */,
 				C6393A52223FAADD00BEEA1C /* CoontrollerAvecTableView.swift in Sources */,
 				C6393A5A223FB7D200BEEA1C /* ImageRonde.swift in Sources */,
 				C6393A4D223FA39F00BEEA1C /* Calanques.swift in Sources */,
