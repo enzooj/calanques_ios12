@@ -29,7 +29,8 @@ class De_tailControlleur: UIViewController {
                 .font: UIFont.systemFont(ofSize: 17),
                 .foregroundColor: UIColor.darkGray
             ]))
-        nomDesk.attributedText = mutable 
+        nomDesk.attributedText = mutable
+        nomDesk.textAlignment = .center
         
         
         
